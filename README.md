@@ -88,7 +88,7 @@ fmt.Println(pkg.ValidUpdate(x, y, ai)) // Likely true
 ---
 ## 😅 Disclaimers
 - This does not establish metaphysical certainty.
-- Prompts are brittle. Sometimes the llama lies with confidence.
+- Prompts are brittle. Sometimes the model lies with confidence.
 - Opinion ≠ falsehood. Fact ≠ meaning.
 - Do not cite this in a philosophy paper (unless it’s a very funny one).
 
@@ -97,7 +97,6 @@ fmt.Println(pkg.ValidUpdate(x, y, ai)) // Likely true
 - Add a third category: “Marketing Copy”
 - Return confidence scores (fabricated, obviously)
 - Batch classification CLI
-- SQLite of accepted “Valid Updates” as a cursed knowledge base
 - Add tests (we live dangerously for now)
 
 ---
@@ -109,6 +108,3 @@ MIT. Do what you want. Preferably something amusing.
 To prove a prediction/theory: you can coerce a general LLM into playing Boolean epistemologist with embarrassingly little code. And yes, it kind of works. Usually. Sometimes. Depends.
 
 > If this made you smirk, it served its purpose.
-
-Enjoy.
-
