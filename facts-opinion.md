@@ -3,9 +3,12 @@
 Formula: ∀x,y: ValidUpdate(x,y) ↔ (Fact(x) ∧ Opinion(y))
 Translation: Facts can boss around opinions, but not vice versa!
 
-Make sure Ollama is running with: ollama serve
-And you have a model installed: ollama pull gpt-oss
+Make sure Ollama is running with: `ollama serve`
+And you have a model installed: `ollama pull gpt-oss`
 
+Below is a raw transcript of sample runs. Wrapped in a code block so every line, emoji, and separator stays exactly as intended.
+
+```text
 📋 TEST 1: 🌍 Classic Confused Logic
 😂 When you understand physics but also don't...
 ─────────────────────────────────────────
@@ -104,3 +107,4 @@ Now go forth and win internet arguments with MATH! 🧮✨
 
 P.S. - If the AI disagrees with you, remember:
 That's just your OPINION vs its FACT analysis! 😉
+```
