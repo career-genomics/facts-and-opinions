@@ -9,6 +9,7 @@ And you have a model installed: `ollama pull gpt-oss`
 Below is a raw transcript of sample runs. Wrapped in a code block so every line, emoji, and separator stays exactly as intended.
 
 ```text
+
 📋 TEST 1: 🌍 Classic Confused Logic
 😂 When you understand physics but also don't...
 ─────────────────────────────────────────
